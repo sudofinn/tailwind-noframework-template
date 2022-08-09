@@ -11,4 +11,4 @@ JavaScript framework. It uses TailwindCSS and PostCSS.
 # Use
 You can use it with normal html and javascript as a light alternative to using a framework. 
 
-> Simply clone the repo and start building your project !
+> Simply clone the repo , type *npm install* and start building your project !
