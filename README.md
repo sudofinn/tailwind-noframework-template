@@ -1,6 +1,7 @@
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/sudofinn/homepage)
-![GitHub top language](https://img.shields.io/github/languages/top/sudofinn/homepage)
-![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/sudofinn/homepage/master)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/sudofinn/tailwind-noframework-template )
+![GitHub top language](https://img.shields.io/github/languages/top/sudofinn/tailwind-noframework-template )
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/sudofinn/tailwind-noframework-template/master)
+
 
 
 
